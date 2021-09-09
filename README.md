@@ -1,1 +1,3 @@
 # WumpusBot
+
+Comandos
